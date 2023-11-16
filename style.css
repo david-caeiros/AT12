@@ -1,0 +1,45 @@
+body {
+  background-color: beige;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  margin: 20px 0;
+}
+
+label {
+  font-weight: bold;
+}
+
+#age-table {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+#age-table caption {
+  font-weight: bold;
+}
+
+#age-table th,
+#age-table td {
+  padding: 10px;
+  border: 1px solid #333;
+}
+
+#age-table th {
+  background-color: #333;
+  color: #fff;
+}
+
+#result {
+  margin: 20px 0;
+}
+
+#age-image {
+  width: 200px;
+}
